@@ -1,0 +1,16 @@
+.gradient {
+    display: block;
+    height: 40vh;
+    background-image:  linear-gradient(red, yellow);
+}
+h1{
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-weight: bolder;
+}
+
+.animate__animated.animate__fadeInDown {
+    --animate-duration: 2s;
+  }
