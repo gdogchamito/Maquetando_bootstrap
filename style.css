@@ -14,3 +14,6 @@ h1{
 .animate__animated.animate__fadeInDown {
     --animate-duration: 2s;
   }
+  .top{
+    padding-top: 2em;
+  }
